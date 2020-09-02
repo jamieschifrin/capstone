@@ -5,13 +5,16 @@ import '../carousel.css';
 
 const CarouselPage = () => {
   return (
+    
     <MDBContainer>
       <MDBCarousel
       activeItem={1}
       length={3}
       showControls={true}
       showIndicators={true}
-      className="z-depth-1"
+      className="z-depth-1 test"
+      style={{ width: '100vw' }}
+      
     >
       <MDBCarouselInner>
         <MDBCarouselItem itemId="1">

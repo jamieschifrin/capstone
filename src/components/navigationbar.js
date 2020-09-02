@@ -34,7 +34,7 @@ export default class NavigationBar extends Component {
             <div>
                 <Styles>
                     <Navbar expand="lg" >
-                    <Navbar.Brand href="/">CINCINNATI NAVBAR</Navbar.Brand>
+                    <Navbar.Brand href="/">CINCYLIFESTYLE.COM</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav " />
                     <Navbar.Collapse id="basic-navbar-nav ">
                         <Nav className="ml-auto">                        

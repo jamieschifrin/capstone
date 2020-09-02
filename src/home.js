@@ -41,7 +41,7 @@ export default class home extends Component {
                             <div class="card">
                                 <img src={ut} alt="Image" class="card-img-top"/>
                                 <div class="card-body">
-                                    <div class="card-title">Test</div>
+                                    <div class="card-title">Union Terminal</div>
                                     <div class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</div>
                                 </div>
                             </div>
@@ -50,7 +50,7 @@ export default class home extends Component {
                             <div class="card">
                                 <img src={ut} alt="Image" class="card-img-top"/>
                                 <div class="card-body">
-                                    <div class="card-title">Test</div>
+                                    <div class="card-title">Music Hall</div>
                                     <div class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</div>
                                 </div>
                             </div>
@@ -59,7 +59,7 @@ export default class home extends Component {
                             <div class="card">
                                 <img src={ut} alt="Image" class="card-img-top"/>
                                 <div class="card-body">
-                                    <div class="card-title">Test</div>
+                                    <div class="card-title">The Newport Aquarium</div>
                                     <div class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</div>
                                 </div>
                             </div>
@@ -68,7 +68,7 @@ export default class home extends Component {
                             <div class="card">
                                 <img src={ut} alt="Image" class="card-img-top"/>
                                 <div class="card-body">
-                                    <div class="card-title">Test</div>
+                                    <div class="card-title">The Cincinnati Zoo</div>
                                     <div class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</div>
                                 </div>
                             </div>
@@ -77,7 +77,7 @@ export default class home extends Component {
                             <div class="card">
                                 <img src={ut} alt="Image" class="card-img-top"/>
                                 <div class="card-body">
-                                    <div class="card-title">Test</div>
+                                    <div class="card-title">Krohn Conservatory</div>
                                     <div class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</div>
                                 </div>
                             </div>
@@ -86,7 +86,7 @@ export default class home extends Component {
                             <div class="card">
                                 <img src={ut} alt="Image" class="card-img-top"/>
                                 <div class="card-body">
-                                    <div class="card-title">Test</div>
+                                    <div class="card-title">Findlay Market</div>
                                     <div class="card-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</div>
                                 </div>
                             </div>

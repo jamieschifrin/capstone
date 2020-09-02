@@ -6,14 +6,15 @@ import './App.css';
 // page routes
 import  Home  from './home';
 import  About  from './about';
-import  Contact  from './contact';
-import  Attractions  from './attractions';
-import  Addattractions   from './addAttractions';
+import  Contact  from "./components/contact";
+import  Attractions  from './components/attractions';
+import  Addattractions   from './components/addAttraction';
+import  singleAttraction from './components/singleAttraction';
 import  Blog  from './blog';
 import  NoMatch    from './noMatch';
 import  Navbar  from "./components/navigationbar"
 import  Jumbotron  from './components/jumbotron';
-import Footer from "./components/Footer"
+import  Footer from "./components/Footer"
 
 
 export default class App extends Component {
@@ -28,9 +29,11 @@ export default class App extends Component {
             <Route exact path="/" component={Home} />
             <Route path="/about" component={About} />
             <Route path="/contact" component={Contact} />
-            <Route path="/Attractions" component={Attractions} />
-            <Route path="/addAttractions" component={Addattractions} />
+            <Route path="/attractions" exact component={Attractions} />
+            <Route path="/add" exact component={Addattractions} />
             <Route path="/blog" component={Blog} />
+            <Route path="/attractions/:id" exact component={singleAttraction} />
+
             <Route component={NoMatch} />
           </Switch>
         <Footer/>
